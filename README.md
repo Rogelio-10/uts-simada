@@ -44,3 +44,5 @@ Akun Bawaan (Default Login):
 Admin: admin@simada.com | Password: admin12
 Petugas: petugas@simada.com | Password: petugas123
 Masyarakat: user@simada.com | Password: user123
+# uts-simada
+Tugas RPL (rekayasa perangkat lunak) yang akan menjadi Final untuk UTS (ujian tengah semester)
